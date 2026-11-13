@@ -1,0 +1,168 @@
+# Markdown 审阅包清单
+
+- 来源根：`/Volumes/EXTERNAL/海外落地页`
+- 生成时间：`2026-08-16 14:08:35 +0800`
+- 文档数量：148
+- 快照范围：项目根下非隐藏、非缓存、非依赖目录中的 Markdown 文档；副本位于 `docs/` 并保留相对目录结构。
+
+## 文件与 SHA-256
+
+- `AGENTS.md` — `a5e7e94457f5111ed5c2a6fe5bb386ed30c39b2a4bba3e5bce31a208b6708c82`
+- `OUTREACH_STATUS.md` — `284570e80c0ba82deeb8c5e68b66938f44d7d1dd35f714d976ad9a629d5059b6`
+- `PROJECT_CORE.md` — `b92a4577b03483bd633492e30da3b3680393218b4095b8e5315187ec2c27bb7a`
+- `australia_first_sale_validation_v0.2_2026-08-14/01_PRD_v0.2.md` — `4e9ce347d2d779f91e55122d971edd73d9c09401dafb0a1066ab97c7cfad2eb6`
+- `australia_first_sale_validation_v0.2_2026-08-14/02_DESTINATION_SCREENING.md` — `3fff8a7ee3e518b6860e9857c9cfac347e4c328cbf246590c2e386cc3ebb769e`
+- `australia_first_sale_validation_v0.2_2026-08-14/04_QUALIFIED_PROSPECTS.md` — `9a0257f3b99d5d8847db6c6171c7e4b514e1da610d0797d3e4663099103eb799`
+- `australia_first_sale_validation_v0.2_2026-08-14/05_TOP10.md` — `d2d07a9053993b01664cdda6884012cb9ad3e467ff1005bbdacd68b13bec3761`
+- `australia_first_sale_validation_v0.2_2026-08-14/06_TOP3_DEMO_CANDIDATES.md` — `90438608ae626d3490a7b2ea55d2ecec30ecc5ebf3f2bfdd984b08ad2219cd0e`
+- `australia_first_sale_validation_v0.2_2026-08-14/07_EVIDENCE_AND_SOURCES.md` — `95e42baec1bb5ececa499ebce1efac8765660d871c5692b396ff69a81df7ef5a`
+- `australia_first_sale_validation_v0.2_2026-08-14/08_EXECUTIVE_SUMMARY.md` — `192f74bbf64665f08b70350155cb776be832ffb867b58b81b86ab51418d1d5e2`
+- `australia_screening_round_01_2026-08-14/00_SCOPE_AND_CRITERIA.md` — `a416c31bf8e6fb4159e46badbcbdd201e36547d2c4be892937127cf5e1575b3c`
+- `australia_screening_round_01_2026-08-14/01_DESTINATION_SCREENING.md` — `0ef0e44d73e789fb1b9a68effcaaa0e1f88fd830ad6b89c4b6b16e10b0e6529e`
+- `australia_screening_round_01_2026-08-14/03_QUALIFIED.md` — `c91e0b61ba77ccae24f2ef3df8de79c9d3c5dbeb4ed0711717e4a0e7543885b2`
+- `australia_screening_round_01_2026-08-14/04_TOP3.md` — `6aa5349666faa17e58edacba479c496de700077c0deb275eda4f12e0dae59095`
+- `australia_screening_round_01_2026-08-14/05_EVIDENCE_AND_SOURCES.md` — `591a54faba9bb2207086a344dcb07922ef609e9a585124cf6fc03118fccd62b5`
+- `australia_screening_round_01_2026-08-14/06_EXECUTIVE_SUMMARY.md` — `488117078d8b722037337ce7516c2b13dd036f8f25ffb70724771db824dfc346`
+- `australia_screening_round_02_2026-08-14/00_SCOPE_AND_CRITERIA.md` — `c9b471d5b08a9b783ee377d1f1ade72bc4355bde88c448dfe59a07a0a3dc0b20`
+- `australia_screening_round_02_2026-08-14/01_DESTINATION_SCREENING.md` — `c0570109360a68066005ca74ef149700550bba8ae94811b1182a1b753d5de46c`
+- `australia_screening_round_02_2026-08-14/03_QUALIFIED.md` — `5f6b7f8f756d21acc2b7adacc9e644c88516e8f77562601833ba720697b99afd`
+- `australia_screening_round_02_2026-08-14/04_TOP3.md` — `e64cff1c952cedd8021e8bed8f4956e0855d980fddfd89082f6cdce22b6ecd93`
+- `australia_screening_round_02_2026-08-14/05_EVIDENCE_AND_SOURCES.md` — `9e794807581595fc7733f366aedb0e062bfd7b699f78eb4f9ced0b241de34b60`
+- `australia_screening_round_02_2026-08-14/06_EXECUTIVE_SUMMARY.md` — `df38c42f192c6e736e7e1bb79d0df4a1181f1b777386f0c5603b356ab89f64c6`
+- `australia_screening_round_03_2026-08-14/00_SCOPE_AND_CRITERIA.md` — `c98ece6ca6a79f1fc0487882d1509c17fbd222e1756cb5185d5dcf33ca49f7c4`
+- `australia_screening_round_03_2026-08-14/01_DESTINATION_SCREENING.md` — `6f4ab4fb6ab57802dd431757871bd85cd1d13a8e9ba77239c3454e9a35b53730`
+- `australia_screening_round_03_2026-08-14/03_QUALIFIED.md` — `bdacfa0ffd8f8c8ab86bb6cfabe01ba5e24afdb7c634868ccc5536c480a85c24`
+- `australia_screening_round_03_2026-08-14/04_TOP3.md` — `7b741a44442b50a75d6d1c48e5e70ee6245530c763a5ca66afb28ef6e2f9759f`
+- `australia_screening_round_03_2026-08-14/05_EVIDENCE_AND_SOURCES.md` — `884fb0514ca7eb83f618262582bb892724de7374322166a9e91c5d60f0193490`
+- `australia_screening_round_03_2026-08-14/06_EXECUTIVE_SUMMARY.md` — `7f30eb118556ade2658470a6d3c191810aed93166c28985ee7528807de386794`
+- `australia_screening_round_04_2026-08-15/00_SCOPE_AND_METHOD.md` — `620c9562c88be23dcb1ee86ca60aabaf53fcca6612542ee6151da34afccb17dc`
+- `australia_screening_round_04_2026-08-15/01_RAW_15_SCREEN.md` — `7e147e55f6dec2ac3ccdb5ad90b7aad8ed6c3e8cc9abe9d74cdd262ee3a18804`
+- `australia_screening_round_04_2026-08-15/02_TOP3_EVIDENCE.md` — `13186d736af53fded8d5da534df0cc00f9e6a219448617f60a2f9b23459dd5ed`
+- `australia_screening_round_04_2026-08-15/03_OUTREACH_DRAFT_PACKAGES.md` — `db6ab200a17a43be3c523d5a8e97685e4fe931a31fa915f33ef99b635385c999`
+- `australia_screening_round_04_2026-08-15/04_EXECUTIVE_SUMMARY.md` — `28f2af86d41a7ed84256b3bf95e5df3740e92cd08e0de7e9019fe29e311fe7f1`
+- `australia_screening_round_05_2026-08-15/00_SCOPE_AND_METHOD.md` — `7366eaf20b4cd9ac2e4042579f679284e12d8d0e7f3a24af71a1ac824530fb69`
+- `australia_screening_round_05_2026-08-15/01_DESTINATION_SCREENING.md` — `7950764729dcaed9f7110802711108c53abc1cdc3e34bde1c8626fc7a98a945a`
+- `australia_screening_round_05_2026-08-15/02_RAW_15_SCREEN.md` — `3ca9c985fbdb5a55935bbc3261b559e978b99c6cad876a754d5dabe2f3458db1`
+- `australia_screening_round_05_2026-08-15/03_KEEP_EVIDENCE.md` — `8c673a72886b4f851e2036c749ca41fbaf38d08d824e4311861c723dffd55a9a`
+- `australia_screening_round_05_2026-08-15/04_OUTREACH_DRAFT_PACKAGES.md` — `1eb2df7bd5ce61ad54c81133f27760545bf18119ac014804746b07f2738d9b3b`
+- `australia_screening_round_05_2026-08-15/05_EXECUTIVE_SUMMARY.md` — `c371863370b49be18e4bc587b3604d3d6aa32a4f47bb4d036cbe950bc9fd5eaa`
+- `australia_screening_round_06_2026-08-15/00_SCOPE_AND_METHOD.md` — `261d038d230bae628a140647718dc288826a89099c4bcd009d62e8a45a8a301c`
+- `australia_screening_round_06_2026-08-15/01_DESTINATION_AND_WIDE_SCREEN.md` — `55570d76bf12595db6c0f07ded01d789967c6b5fc95545a2f03d323ac747842e`
+- `australia_screening_round_06_2026-08-15/02_MID_SCREEN.md` — `e38f56a74405e28e0ba1e3d22ba7963c7f9e32382b59fb6bf8ea3eabb9ce95a9`
+- `australia_screening_round_06_2026-08-15/03_KEEP_EVIDENCE_AND_OUTREACH.md` — `228a2174df0e0560ff6cc86ac816c65cdb431a3307d0c72b3d5cb8ce890025bf`
+- `australia_screening_round_06_2026-08-15/04_EXECUTIVE_SUMMARY.md` — `842bbe58b6256d5376eb5a9e1fa6d5d71dd1ec493b26a65fe7655b684e2f1245`
+- `australia_screening_round_07_2026-08-15/00_SCOPE_AND_METHOD.md` — `a3ee8cd78ab363e50aecb9044bb5a8418a836fbbaa507db419d3df71ccdbd977`
+- `australia_screening_round_07_2026-08-15/01_DESTINATION_AND_WIDE_SCREEN.md` — `0f5c33023cb55dd7de2f91888f5d6fadebb82fc0fef5c2fcc265b2acd05239f7`
+- `australia_screening_round_07_2026-08-15/02_MID_SCREEN.md` — `85406e067f88ad07a5e069a8c552b4b17fd2e168c0b3d5698a514097edd0d848`
+- `australia_screening_round_07_2026-08-15/03_KEEP_EVIDENCE.md` — `a912d7b2514044fe2037f503c75aab5fc79aff5141eea6994769aa3791c63326`
+- `australia_screening_round_07_2026-08-15/04_OUTREACH_DRAFT_PACKAGES.md` — `ef9b76640ad3ef3fdd60c29855ce476e961df6dd13e673272c92c4d0739957a3`
+- `australia_screening_round_07_2026-08-15/05_EXECUTIVE_SUMMARY.md` — `5c99695bdd362923834e13708d60bc0e0d41e8b66276cc9ecc0ecfa064cf8fed`
+- `australia_screening_round_07_2026-08-15/06_CAIRNS_PRESSURE_CLEANING_REVIEW.md` — `4ad3ac345ff7608b50d2dbe47b68486ecde4327c69d81fc3fcaf6c7b763ce74f`
+- `australia_screening_round_08_2026-08-16/00_SCOPE_AND_SCORING_MODEL.md` — `3f5001023715056e5a8c1d40fd3f6b2caee234bb65f6b97a44ecc75ec9a2606e`
+- `australia_screening_round_08_2026-08-16/01_DESTINATION_AND_WIDE_SCREEN.md` — `95dc45b6e270f7f2ac240e39a8807bdef969bcb426721b1a07aa6a231d431862`
+- `australia_screening_round_08_2026-08-16/02_MID_SCREEN_SCORECARD.md` — `7dedd3bcaf602ae78ce1851a330f0efb394e8f2110557655dc790e387a134e0c`
+- `australia_screening_round_08_2026-08-16/03_PRIORITY_CANDIDATES.md` — `11fd9e765824d8172a5a09d09e6caea98d5cd1434952cf3735f2a3769e1f9779`
+- `australia_screening_round_08_2026-08-16/04_OUTREACH_DRAFT_PACKAGES.md` — `1292829da15eaceed4432bfabdcc1b942a9265dd9dc7c415124de970d302146c`
+- `australia_screening_round_08_2026-08-16/05_CALIBRATION_AND_GAPS.md` — `38acda3fb72139a01365baadf00586b7f4f8536f0055ba056890f11248ab7082`
+- `australia_screening_round_08_2026-08-16/06_V2_SCORING_MODEL_AND_CHANGELOG.md` — `82c058590cd7f53a9979fab17ca57c3cb894ef141b00e42b6f23a0b80c825a32`
+- `australia_screening_round_08_2026-08-16/07_V2_MID_SCREEN_SCORECARD.md` — `babcafcfb0353573ceabb904fd14eef828037338069270918957fdda87f30c91`
+- `australia_screening_round_08_2026-08-16/08_V2_PRIORITY_CANDIDATES_AND_CLOSED_LOOP.md` — `ebc78872f8240089221bc10b1e3cae8eca7dfd6335c5577cdd38879b7291de32`
+- `australia_screening_round_08_2026-08-16/09_V2_EXECUTIVE_SUMMARY.md` — `f0a439fa9faf27e51833500ea24707c35ad25e806bbfea4c2e2e4f4bfdd498ae`
+- `client_always_love_celebrant/CLIENT_DOSSIER.md` — `2085e4d683e8baec69f257f5d567cfe59bd80398ce019c6ee49b40787045b22e`
+- `client_always_love_celebrant/CONTACT_EVIDENCE.md` — `99e0c23a02c9a8da5055c966d21135832dd066968ca967b8c2b077409deed490`
+- `client_always_love_celebrant/DEMO_DELIVERY.md` — `656c496f01f7e39f7df85c2a015a14d08ed9c1bf8dbc2b3a2edc64b049b290b6`
+- `client_always_love_celebrant/EXECUTIVE_SUMMARY.md` — `4fe549c0dc5aa0c445587a2bed3fc7ff97d188b7e72960661082eaa97290355e`
+- `client_always_love_celebrant/PURCHASE_HYPOTHESIS_AND_RED_TEAM.md` — `915b0afa584453e5488e3be65cce56d3c4ce65ad2c3a94fc41874f5c7271c0f3`
+- `client_always_love_celebrant/STATIC_ONE_PAGE_FIT.md` — `750cf8d017b7d4f2fbe8ac3fa574aa19cda1f18435590e59dcc2f60d48d7ede3`
+- `client_always_love_celebrant/WEBSITE_AND_CRO_AUDIT.md` — `37ab7f8a39b3f757425267b6ac9349a3885185fa6823b0642ec5ccab25f9b2ff`
+- `client_always_love_celebrant/demo/PRODUCT.md` — `35236ebbcf2d25380ce2eafce3ef77f44d9533250abc1bf13205a71abd7de562`
+- `client_always_love_celebrant/demo/README.md` — `b223e06214f4db32df1adad6608fa722dab2f88c3e85ac6ef9efc647f23a1ffa`
+- `client_always_love_celebrant/demo/docs/素材分配与版权登记表.md` — `2e381df3994635065e23107a0f9e0ccd948dfa1fbcb5c1fddc0e38a398a0e6fe`
+- `client_always_love_celebrant/demo/docs/网站需求反问记录.md` — `7b1a3df9f8096ce28df604027288d6e5c94fd3d6c39efbed4c5ca59ac4c9d1b0`
+- `client_always_love_celebrant/demo/docs/视觉参考与项目逻辑映射表.md` — `f84e7b555288901f81eb5568b5475f0b25b14d303065679d906649116eb2a868`
+- `client_always_love_celebrant/demo/docs/页面骨架与素材占位清单.md` — `6f03eb46c2513a3e817517326e7ad2bdd0bc1dadad63a3ed448dc3a4a35abb27`
+- `client_always_love_celebrant/pitch-video/AGENTS.md` — `1c9b3dbc28f5aac110e827cd1354b8acaaed721bc4cd470e9c5c85deaa05cf4f`
+- `client_always_love_celebrant/pitch-video/BRIEF.md` — `cae2dab1ac65f1c52e3187e920f5f006fc3a8145158960a1d2f986ac94127201`
+- `client_always_love_celebrant/pitch-video/CLAUDE.md` — `1c9b3dbc28f5aac110e827cd1354b8acaaed721bc4cd470e9c5c85deaa05cf4f`
+- `client_always_love_celebrant/pitch-video/DESIGN.md` — `a5913a3c021551675d82ad69994bfa57d7f267b1b95ce2633061f19a12b566fc`
+- `client_always_love_celebrant/pitch-video/STORYBOARD.md` — `75080e919cce0edea6e5b96731198209c34e275b94bf14d12060e1074df50ca3`
+- `client_bright_bus_tours/CONTACT_EVIDENCE.md` — `8ad809c25d4909b990b7baff925794f15b8ac66c0ef689742c2490a235b14a79`
+- `client_bright_bus_tours/CURRENT_STATUS.md` — `9858fdc29246ef788e779503bf3e30ba91868d6f8af70cf5240ddac3cc641563`
+- `client_bright_bus_tours/EVIDENCE.md` — `16335b1bbb81015e37b06415e092d8f1a78274ecadedec0aa5c648297159905d`
+- `client_bright_bus_tours/EXECUTIVE_SUMMARY.md` — `4efaf9e259c78fad5e30ae2d8fe1ba26b834e237ded67954fadf2880ea41e53f`
+- `client_bright_bus_tours/ONE_PAGE_FIT.md` — `b1a77bce5e20ff0562ec3f7f354c74754f1fde41e21a02ac9a90961a42fbac38`
+- `client_bright_bus_tours/WEBSITE_AND_CRO_AUDIT.md` — `5891aa46843ca2399af77bd2055def231f71bce638cb7a4592397caeb6339cde`
+- `client_bright_bus_tours/authorized_public_mirror_20260814/MIRROR_STATUS.md` — `799461e6e86e20f04006e2e43f2f12188dd0993ca4f69de73df0762ab3e3e819`
+- `client_bright_bus_tours/demo/DEMO_SCOPE.md` — `39e3f8d602fd7040bf64ac09ab23d200d4b24da24f4c6d7a051cfb33ee17cc38`
+- `client_bright_bus_tours/demo/IMAGE_SOURCES.md` — `3f63d3c783d25ff06b520f0637a01546d89ccc25bd6225ca15169c605267a8cb`
+- `client_bright_bus_tours/demo/README.md` — `98f8cececaaae6067621649de4cd6ac930fe912f3a5f0b16d45891645f842c8a`
+- `client_bright_velo/CONTACT_EVIDENCE.md` — `47e668c652972b06d9e5ab27a0b6df3588e248f23869d0f30fb6a8de14d4d27e`
+- `client_bright_velo/CURRENT_STATUS.md` — `6616a155583ce62a1887d376409edad527bac567c6a5fba133dfc1f54f7a5c1b`
+- `client_bright_velo/EVIDENCE.md` — `a0efdc070f8fcd5dac1fba24879a30f937c81fd2de3bfd1b9274d16f13f4a6f6`
+- `client_bright_velo/EXECUTIVE_SUMMARY.md` — `c3aeb99f74523311a7665753ae61457e17530b5a4989e23520fe34ab6e8b7947`
+- `client_bright_velo/ONE_PAGE_FIT.md` — `0e425143c7b2a0b895c85ab6e9a4b6f04e9620b8285b732c5af5fcd5414267b4`
+- `client_bright_velo/WEBSITE_AND_CRO_AUDIT.md` — `b69ad56a74229500a704792f7c96c7a397c567cf0902e3ea0983969776d8712a`
+- `client_bright_velo/site/README.md` — `f0687326c31bebb74c6ff4c723f566a568ea3dd61ffc213b1d2306fdac7b90d1`
+- `client_bright_velo/site/docs/00_PROJECT_INIT.md` — `3d279d4408a16e98057e5c36d19b047a3bc40f731d5e94127c8606626e6acc30`
+- `client_bright_velo/site/docs/01_REUSE_REVIEW.md` — `e28167e8a6f8868fba2f7ebf20165a1c4bb04c67fc7ab748e19e6585690f663c`
+- `client_bright_velo/site/docs/02_PRD.md` — `9c629b76e37b4fd82f7e6ff7a8c0618b9ee345fcbb8320955b972172b18d01df`
+- `client_bright_velo/site/docs/03_SITEMAP.md` — `31bb49cd84e7b6d15302944baa4fd4e3cfe36f133e018f3b53d0abe900189454`
+- `client_bright_velo/site/docs/素材分配与版权登记表.md` — `3c16de195d4a7da2e0c2c3ad53eea884df351543920771673b25c217cf01aac1`
+- `client_bright_velo/site/docs/网站需求反问记录.md` — `c91c1d531e24ef63449f99a09a8c6651e77d4acfb55ee221fdf1e2b3fac913a9`
+- `client_bright_velo/site/docs/视觉参考与项目逻辑映射表.md` — `f4ad0b98d03fcc4a76a1729b495ffdf22bc58b8fed682c402fd81913e33db1e5`
+- `client_bright_velo/site/docs/页面骨架与素材占位清单.md` — `4c02e6260e2f65babf40d899f910ca29a53242c422bea8a2544a2a68bfb309b0`
+- `client_cairns_pressure_cleaning/CAIRNS_PRESSURE_CLEANING_DEEP_RESEARCH_2026-08-16.md` — `e726537a092a84d321b0f4158d4c1dbba9c0a4777adcbb54c355b2a16ef1dc2b`
+- `client_cairns_pressure_cleaning/demo/README.md` — `a19b1cdb64af84fba775453dd85de9e3936eb9caec9dbdd3812954ca7541ac78`
+- `client_cherry_walk_cafe/CONTACT_EVIDENCE.md` — `9379f547f906d919275dfa10335bddd39fa3d03a9cd002daae87928129ad32f6`
+- `client_cherry_walk_cafe/CURRENT_STATUS.md` — `70452742f2e7be6400f8285e5235b7428f843fb1b8e9cd7a4bb22e7e0a2df9ed`
+- `client_cherry_walk_cafe/EVIDENCE.md` — `f0cc43e0d0e1f6fdbed6e59e06cc41f398a8efd2c68f50833ca43f3bd08bdb2a`
+- `client_cherry_walk_cafe/EXECUTIVE_SUMMARY.md` — `5ca59e93f163f502607b224c5bd5a692bc56f2699229a33819891c76f72690f9`
+- `client_cherry_walk_cafe/ONE_PAGE_FIT.md` — `2a1ae87d47516c42795d4d3ae1020a4d4c0555a1c927f4783400bed01fd4b8c1`
+- `client_cherry_walk_cafe/OUTREACH_DRAFT_PACKAGE.md` — `478bfb5c13b14c6633786c5771477783507fe7c4de9959f714e7f643f4e775b8`
+- `client_cherry_walk_cafe/WEBSITE_AND_CRO_AUDIT.md` — `cb967b9b785d7deb746724afd36911ed8084e7a1892adbe981e8eb0818591f8e`
+- `client_cherry_walk_cafe/site/README.md` — `e2df617991f7ae9e1bdf0c964e4b542e2d969d79cf1a96601ec90b2b5292fce1`
+- `client_daylesford_traditional_chinese_massage/DEEP_RESEARCH_2026-08-15.md` — `fa9017709ad076d8582709184ed89b50eb69b8e762ecaa189cf052f8eaf284a1`
+- `client_kimberley_cleaning/01_RESEARCH_REVALIDATION_2026-08-16.md` — `3cc8d37b05144ebee90847b662de298fef65b7354b7f622d0f0f7d3455db5ffc`
+- `client_kimberley_cleaning/demo/README.md` — `0ba3b2bc8428456c8a2e40576796fec15245453e6bff1337cfd8bba2f1cc368b`
+- `client_kimberley_cleaning/demo/docs/01_COMPETITOR_ANALYSIS.md` — `96d1d24f343c19e62873a90dd0517701cdfa936413e103a67cee6c9528a80c00`
+- `client_mudgee_wedding_photography/CLIENT_DOSSIER.md` — `f702e98361d13d224b36df75bc503dd7e62c5cc3cb3671936e7f3755c07816da`
+- `client_mudgee_wedding_photography/CONTACT_EVIDENCE.md` — `a6c12822794fb4b1e5fe5955b9a1bae97c27e682eea844b8382dedbf6f669ca9`
+- `client_mudgee_wedding_photography/EXECUTIVE_SUMMARY.md` — `17b093729d9c40f374af56c169229c47189f0fa497dc4bd6527b838636d4947b`
+- `client_mudgee_wedding_photography/PURCHASE_HYPOTHESIS_AND_RED_TEAM.md` — `149fd2eefc54c5fe09415bf8df65b4c0a0fe642832118b0fdd8decef90b2b825`
+- `client_mudgee_wedding_photography/STATIC_ONE_PAGE_FIT.md` — `907f6fe27b3c0d37fddcca8476c2797eddd712ed8638a19ad97e0e59c8952a41`
+- `client_mudgee_wedding_photography/WEBSITE_AND_CRO_AUDIT.md` — `342908a068dbde315077efb3bfe3942160f47cd4935f4caa2d24deafa28f830b`
+- `client_peter_izzard_photography/01_DEEP_RESEARCH_2026-08-15.md` — `40bc50f250bd26ec562b71498d0f4f599d437d5c6a90d8e2b12c72619e849e87`
+- `client_peter_izzard_photography/02_OUTREACH_DRAFT_PACKAGE.md` — `0fcf14dc75d18ec08e473b0a89e5e8466f6821a3fe1f298aa44aa5829e7f0d62`
+- `client_port_douglas_tropical_trips/README.md` — `f888699185b65760f5b06b22c4c5484ee7192a36f0aef64634dff972d2e5f9d6`
+- `client_prestige_cleaning_wagga/RESEARCH_REPORT_2026-08-16.md` — `e7c6b44a69c83fa7963cc8f41e1a42cc0b224ce7d288b4cb4e950709feb2423f`
+- `client_prestige_cleaning_wagga/demo/README.md` — `d820e9326fd2f652281e4383e280cf30342304d4e8e3d36f4f4fb1707654f4f0`
+- `client_prestige_cleaning_wagga/docs/00_PROJECT_INIT.md` — `84eeb5d00de916c51d9eb0df7aa47d4b403b20c612c09be5719a40697b04d985`
+- `client_prestige_cleaning_wagga/docs/01_COMPETITOR_ANALYSIS.md` — `fdc8955c2a6187152059ceea0b75a510806c7e73889349c6e2766f942798b5a2`
+- `client_prestige_cleaning_wagga/docs/02_PRD.md` — `27440d70d1d5a436b86517687c1cbe7bb677eff0fa041fbdc8a38d1d1742861e`
+- `client_the_oasis_mudgee/CLIENT_DOSSIER.md` — `ef31296d769d00093ebdd2e0eed93357ea3193346237b2d2372b3d7c6a9e205d`
+- `client_the_oasis_mudgee/CONTACT_EVIDENCE.md` — `b64b445c07f4460528bce2bc6ba30cbccc2849061e1eb928ab998226c25b4c24`
+- `client_the_oasis_mudgee/DESIGN.md` — `06e1be4153e30d40b0bd4ac500ffa2b1aecdf38b34e8709b3f37627af12f5939`
+- `client_the_oasis_mudgee/EXECUTIVE_SUMMARY.md` — `31f3b11c78599cffb9ce26dede79da75df91016a85463ccc7e18d42af94301c9`
+- `client_the_oasis_mudgee/PRODUCT.md` — `c26381904db2dd2976f562245710b06472e63ddc0cebd73c5e846305dad9612b`
+- `client_the_oasis_mudgee/PURCHASE_HYPOTHESIS_AND_RED_TEAM.md` — `ad189314cf88002e3b09e94a65373732a26d11d889dd7d94d3ebf73994285758`
+- `client_the_oasis_mudgee/README_DEMO.md` — `973462c9ea26e59b5df6760a9d3eef64f6d3ac0f0ed9f69ee4854e9cf1984d12`
+- `client_the_oasis_mudgee/STATIC_ONE_PAGE_FIT.md` — `f5e6fd4ebdbfd886d65fff52b933930bf633f648fd41e1fc25aaf82eff613e1b`
+- `client_the_oasis_mudgee/WEBSITE_AND_CRO_AUDIT.md` — `5e690296c33f4518946f9f836dd33c4f302a8343da7b98ffc42b8e7d5f1826d0`
+- `client_the_oasis_mudgee/素材分配与版权登记表.md` — `45cb508b397b10e9e2d55b8bd1cd79f2cc45d101efc17fe45fa0e12a76229491`
+- `client_the_oasis_mudgee/网站需求反问记录.md` — `ce345db24156df648c75e88bf8d5cfb89bd10fce76a67b20f115b1cb6f6dcdd5`
+- `client_the_oasis_mudgee/视觉参考与项目逻辑映射表.md` — `98eb2b170df74c1b4de3f2e10fba2f65984e799e51db62cd64c5ccdd1f37acf4`
+- `client_the_oasis_mudgee/页面骨架与素材占位清单.md` — `0cd2675b3ee6490f7093a09e638e850008ea51b4726b3cb817543aa66b191c4d`
+- `demo_infrastructure_spike_v0.1_2026-08-14/EVIDENCE_NOTE.md` — `d8a24265e72acec0ad3f75fbdc24309b6624f3ca6b3bcb98caa3f4fead962138`
+- `demo_infrastructure_spike_v0.1_2026-08-14/VERIFICATION_RECORD.md` — `44188faa483aba565180863d56f0f0b1e209c183acbbeb7387ef83412b39bcf5`
+- `historical_snapshot_port_douglas_tropical_trips_2026-08-14/EVIDENCE.md` — `899a50424ccbd92706a91187413ef194c18b3db65ac2b618ac44924424bab3eb`
+
+## 明确排除
+
+- `.git`、隐藏文件、系统文件、`.DS_Store`、`._*`、`__MACOSX`、PAX/xattr/AppleDouble。
+- `.env`，以及名称疑似 secret、token、cookie、credential、password、private key 或 API key 的文件。
+- `node_modules`、cache、build、dist、现有 `review_packages`。
+- 图片、视频、音频、HTML、CSS、JavaScript、浏览器证据、邮件原始 MIME/IDs、附件、数据库、压缩包及其他二进制业务资产。
+
+## 证据边界
+
+本包是生成时点的只读 Markdown 快照。文件存在、复制成功或哈希一致，不证明其中事实仍为最新，不代表客户授权、外联授权、部署、上线、交付或最终验收。
